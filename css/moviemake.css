@@ -23,13 +23,9 @@ h3 {
 
 .intro-header {
 	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-	padding-bottom: 30px;
+	padding-bottom: 50px;
 	color: #f000000;
 	text-align: center;
-	background-color: #f8f8f8;
-	padding: 100px 0;
-	background: url(../images/banner.png) no-repeat center center;
-	background-size: cover;
 }
 
 .intro-message {
@@ -43,7 +39,8 @@ h3 {
 	margin: 0;
 	font-size: 5em;
 /*	text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);*/
-	font-family:'Cutive Mono', serif;
+	font-family:'Poiret One', cursive;
+	}
 
 .intro-divider {
 	width: 400px;
@@ -100,8 +97,6 @@ h3 {
 	border-top: 1px solid #e7e7e7;
 	border-bottom: 1px solid #e7e7e7;
 	padding: 50px 0;
-	
-	
 }
 
 .section-heading1 {
